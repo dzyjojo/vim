@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/usr/lib/python2.6'
+let g:netrw_dirhist_2='/tmp'
+let g:netrw_dirhist_3='/'
+let g:netrw_dirhist_4='/mnt'
+let g:netrw_dirhist_5='/home/kerwin/.virtualenvs/watch'
+let g:netrw_dirhist_6='/usr/local/lib/python2.7/dist-packages/sqlalchemy'
+let g:netrw_dirhist_7='/home/yuankui/code/sinawatch_web/lib/tsdb'
